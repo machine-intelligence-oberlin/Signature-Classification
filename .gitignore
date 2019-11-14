@@ -4,6 +4,9 @@
 *.md~
 *.R~
 *.sh~
+# No data should be in this repository, even if it is on your local machine
+*.csv
+*.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
