@@ -1,5 +1,5 @@
 ## Signature_Classification
-> Practice Classification Using CNNs in TensorFlow and PyTorch 
+> Practice Classification Using CNNs in TensorFlow and PyTorch <br/>
 > Objective: Classify someone's identity off of their signature
 ---
 
